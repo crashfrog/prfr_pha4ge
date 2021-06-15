@@ -1,0 +1,3 @@
+[submodule "SARS-CoV-2-Contextual-Data-Specification"]
+	path = SARS-CoV-2-Contextual-Data-Specification
+	url = https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification
